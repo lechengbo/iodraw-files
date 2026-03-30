@@ -107,7 +107,7 @@
           <mxGeometry x="780" y="165" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-38" value="&amp;nbsp;末端调试标定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="630" y="225" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-40" value="其他模块调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="224" width="120" height="50" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-44" value="状态管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="350" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-45" value="&amp;nbsp;末端调试标定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="405" width="120" height="50" as="geometry" />
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-45" value="异常管理界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="408" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-46" value="其他模块调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="409" width="120" height="50" as="geometry" />
