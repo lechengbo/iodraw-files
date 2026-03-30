@@ -70,10 +70,10 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-27" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="475" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-28" value="流程模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-28" value="状态管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="505" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-29" value="任务模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-29" value="异常模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="505" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
