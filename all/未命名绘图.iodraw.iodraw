@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-1" value="工业机器人分布式架构&#xa;核心能力&#xa;脚 - 移动能力&#xa;手 - 操作能力&#xa;眼 - 感知能力&#xa;脑 - 决策能力&#xa;硬件抽象层 (HAL)&#xa;底盘硬件抽象&#xa;仙工控制..&#xa;移动控制..&#xa;导航控制..&#xa;机械臂硬件抽象&#xa;大族机械..&#xa;运动学解..&#xa;轨迹规划..&#xa;感知硬件抽象&#xa;相机接口..&#xa;雷达接口..&#xa;力传感器..&#xa;设计目标&#xa;硬件差异屏蔽&#xa;接口抽象统一&#xa;模块低耦合&#xa;易扩展性&#xa;故障隔离&#xa;标准化数据格式&#xa;核心能力微服务层&#xa;底盘移动服务&#xa;MoveTo/Mo..&#xa;StartNav/..&#xa;GetPose/G..&#xa;Emergency..&#xa;机械臂服务&#xa;正逆运动..&#xa;轨迹规划..&#xa;末端执行..&#xa;力控触觉..&#xa;感知服务&#xa;多传感器..&#xa;算法引擎..&#xa;数据格式..&#xa;故障隔离..&#xa;服务编排与协同层&#xa;调度服务&#xa;多模块任务调度&#xa;状态同步管理&#xa;资源协调分配&#xa;协同控制&#xa;服务间通信&#xa;工作流引擎&#xa;异常处理机制&#xa;应用与业务层&#xa;业务集成服务&#xa;数字孪生同步&#xa;数据统计分析&#xa;业务系统对接&#xa;统一HMI界面&#xa;状态监控管理&#xa;操作交互界面&#xa;统一管理平台&#xa;运维与可靠性层&#xa;统一部署平台&#xa;标定调试工具&#xa;日志聚合告警&#xa;故障检测诊断&#xa;安全功能管理&#xa;监控可观测性" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="150" height="990" as="geometry" />
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
