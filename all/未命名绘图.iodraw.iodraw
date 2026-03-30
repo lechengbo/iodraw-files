@@ -65,7 +65,7 @@
           <mxGeometry x="370" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="465" width="300" height="120" as="geometry" />
+          <mxGeometry x="210" y="465" width="300" height="175" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-27" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="475" width="140" height="20" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-29" value="异常模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="505" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-30" value="状态管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="515" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
