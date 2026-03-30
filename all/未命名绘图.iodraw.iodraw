@@ -7,8 +7,11 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-2" value="机器人架构图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="810" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="统&lt;div&gt;一&lt;div&gt;通&lt;/div&gt;&lt;div&gt;讯&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;&lt;div&gt;件&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="统&lt;div style=&quot;font-size: 15px;&quot;&gt;一&lt;div style=&quot;font-size: 15px;&quot;&gt;通&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;讯&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;组&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;件&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="45" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
