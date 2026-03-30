@@ -148,7 +148,7 @@
           <mxGeometry x="780" y="530" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-54" value="统一对外接口服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="85" y="670" width="825" height="40" as="geometry" />
+          <mxGeometry x="97.5" y="740" width="825" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-34" target="aeSAsaaFi5lpjSz0y0Ey-3">
           <mxGeometry relative="1" as="geometry" />
