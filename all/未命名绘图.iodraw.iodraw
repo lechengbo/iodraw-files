@@ -95,19 +95,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="475" width="300" height="155" as="geometry" />
+          <mxGeometry x="620" y="125" width="300" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-35" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="485" width="140" height="20" as="geometry" />
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-35" value="统一的部署、调试、标定平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="135" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-36" value="状态管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="515" width="120" height="50" as="geometry" />
+          <mxGeometry x="630" y="165" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-37" value="异常模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="515" width="120" height="50" as="geometry" />
+          <mxGeometry x="780" y="165" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-38" value="规则引擎模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="570" width="120" height="50" as="geometry" />
+          <mxGeometry x="630" y="220" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
