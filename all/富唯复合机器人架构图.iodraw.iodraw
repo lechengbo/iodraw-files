@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="620" y="490" width="290" height="110" as="geometry" />
+          <mxGeometry x="620" y="490" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-48" value="统一运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="500" width="210" height="20" as="geometry" />
@@ -148,7 +148,7 @@
           <mxGeometry x="780" y="530" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-54" value="统一对外接口服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="740" width="825" height="40" as="geometry" />
+          <mxGeometry x="90" y="660" width="825" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-34" target="aeSAsaaFi5lpjSz0y0Ey-3">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +159,7 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="290" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-61" value="统一运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-61" value="数字化与业务集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="850" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-62" value="日志收集和分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
