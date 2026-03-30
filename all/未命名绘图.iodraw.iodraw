@@ -113,22 +113,22 @@
           <mxGeometry x="780" y="224" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="135" width="290" height="165" as="geometry" />
+          <mxGeometry x="620" y="310" width="290" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-42" value="统一的调试、标定平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="690" y="145" width="210" height="20" as="geometry" />
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-42" value="统一HMI交互界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-43" value="agv标定调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="175" width="120" height="50" as="geometry" />
+          <mxGeometry x="630" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-44" value="机械臂调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="175" width="120" height="50" as="geometry" />
+          <mxGeometry x="780" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-45" value="&amp;nbsp;末端调试标定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="630" y="405" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-46" value="其他模块调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="234" width="120" height="50" as="geometry" />
+          <mxGeometry x="780" y="409" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
