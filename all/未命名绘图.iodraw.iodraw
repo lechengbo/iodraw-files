@@ -145,11 +145,8 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-54" value="统一对外接口服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="85" y="670" width="815" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="410" as="sourcePoint" />
-            <mxPoint x="410" y="360" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-34" target="aeSAsaaFi5lpjSz0y0Ey-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
