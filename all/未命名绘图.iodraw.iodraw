@@ -17,12 +17,12 @@
           <mxGeometry x="270" y="140" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="110" height="420" as="geometry" />
+          <mxGeometry x="90" y="130" width="110" height="490" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-7" value="设计目标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="115" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-10" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial, sans-serif; font-size: 11px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;硬件差异屏蔽&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-10" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial, sans-serif; font-size: 11px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;硬件抽象HAL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="165" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-11" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial, sans-serif; font-size: 11px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;接口抽象统一&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
           <mxGeometry x="370" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="465" width="300" height="175" as="geometry" />
+          <mxGeometry x="210" y="465" width="300" height="155" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-27" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="475" width="140" height="20" as="geometry" />
