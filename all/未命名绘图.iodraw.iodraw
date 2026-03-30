@@ -52,6 +52,24 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-19" value="末端服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="230" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-21" value="核心微服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-22" value="底盘移动服务（agv）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-23" value="机械臂服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-24" value="感知服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-25" value="末端服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
