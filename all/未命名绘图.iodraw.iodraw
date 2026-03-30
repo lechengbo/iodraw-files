@@ -65,7 +65,7 @@
           <mxGeometry x="370" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="465" width="300" height="155" as="geometry" />
+          <mxGeometry x="210" y="465" width="300" height="165" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-27" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="475" width="140" height="20" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="780" y="409" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="490" width="290" height="165" as="geometry" />
+          <mxGeometry x="620" y="490" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-48" value="统一运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="500" width="210" height="20" as="geometry" />
@@ -141,9 +141,6 @@
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-50" value="监控管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="530" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-52" value="其他操作界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="589" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
