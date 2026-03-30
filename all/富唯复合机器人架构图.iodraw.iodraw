@@ -157,16 +157,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="210" y="840" width="290" height="110" as="geometry" />
+          <mxGeometry x="90" y="720" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-61" value="数字化与业务集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="850" width="210" height="20" as="geometry" />
+          <mxGeometry x="150" y="730" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-62" value="日志收集和分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="880" width="120" height="50" as="geometry" />
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-62" value="数据统计与分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-63" value="监控管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="880" width="120" height="50" as="geometry" />
+          <mxGeometry x="250" y="760" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
