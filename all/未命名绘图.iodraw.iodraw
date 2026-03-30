@@ -43,7 +43,7 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-16" value="底盘移动服务（agv）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-17" value="底盘移动服务（agv）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-17" value="机械臂服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
