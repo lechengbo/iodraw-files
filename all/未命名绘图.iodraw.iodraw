@@ -7,6 +7,9 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-2" value="机器人架构图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="810" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="130" width="80" height="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
