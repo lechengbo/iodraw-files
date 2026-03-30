@@ -156,31 +156,22 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-41" target="aeSAsaaFi5lpjSz0y0Ey-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="719" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="235" y="708" />
-              <mxPoint x="241" y="708" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="710" as="targetPoint" />
+            <mxPoint x="235" y="721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="90" y="728" width="290" height="110" as="geometry" />
+          <mxGeometry x="90" y="739" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-61" value="数字化与业务集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="150" y="738" width="210" height="20" as="geometry" />
+          <mxGeometry x="150" y="749" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-62" value="数据统计与分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="768" width="120" height="50" as="geometry" />
+          <mxGeometry x="100" y="779" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-63" value="其他外围系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="768" width="120" height="50" as="geometry" />
+          <mxGeometry x="250" y="779" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
