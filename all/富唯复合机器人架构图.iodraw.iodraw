@@ -162,16 +162,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="90" y="889" width="290" height="110" as="geometry" />
+          <mxGeometry x="90" y="889" width="290" height="111" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-61" value="数字化与业务集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="150" y="899" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-62" value="数据统计与分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="929" width="120" height="50" as="geometry" />
+          <mxGeometry x="100" y="929" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-63" value="其他外围系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="929" width="120" height="50" as="geometry" />
+          <mxGeometry x="250" y="929" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-69" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="120" height="50" as="geometry" />
