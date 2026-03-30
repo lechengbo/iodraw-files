@@ -61,7 +61,7 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-22" value="流程模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="370" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-23" value="任务服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-23" value="任务模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
