@@ -130,9 +130,9 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-46" value="其他操作界面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="409" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-47" target="aeSAsaaFi5lpjSz0y0Ey-3" edge="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="560" as="targetPoint" />
+            <mxPoint x="590" y="608" as="targetPoint" />
             <Array as="points">
               <mxPoint x="590" y="608" />
             </Array>
@@ -210,6 +210,18 @@
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-6" value="调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="899" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="630" y="565" width="290" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-9" value="统一运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="575" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-10" value="日志收集和分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="605" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-11" value="监控管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="605" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
