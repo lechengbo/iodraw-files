@@ -196,7 +196,7 @@
         <mxCell id="vb-gZBGf6wZfebiEb5LE-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="620" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vb-gZBGf6wZfebiEb5LE-2" value="异常管理界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-2" value="规则配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="475" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
