@@ -202,9 +202,6 @@
         <mxCell id="vb-gZBGf6wZfebiEb5LE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="720" y="859" width="150" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="vb-gZBGf6wZfebiEb5LE-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="620" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-5" value="调度系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="725" y="869" width="145" height="20" as="geometry" />
         </mxCell>
@@ -224,10 +221,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="210" y="640" width="290" height="165" as="geometry" />
+          <mxGeometry x="210" y="640" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-16" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="650" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="680" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
