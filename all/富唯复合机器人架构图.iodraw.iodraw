@@ -229,6 +229,9 @@
         <mxCell id="vb-gZBGf6wZfebiEb5LE-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="680" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-17" value="避障模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
