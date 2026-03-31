@@ -157,7 +157,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-41" target="aeSAsaaFi5lpjSz0y0Ey-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="425" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.176;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-60" target="aeSAsaaFi5lpjSz0y0Ey-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -227,10 +231,10 @@
           <mxGeometry x="270" y="650" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="680" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-17" value="避障模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="100" height="40" as="geometry" />
+          <mxGeometry x="360" y="680" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
