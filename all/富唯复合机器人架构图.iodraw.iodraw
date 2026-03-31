@@ -223,6 +223,12 @@
         <mxCell id="vb-gZBGf6wZfebiEb5LE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vb-gZBGf6wZfebiEb5LE-4" target="aeSAsaaFi5lpjSz0y0Ey-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="290" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-16" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
