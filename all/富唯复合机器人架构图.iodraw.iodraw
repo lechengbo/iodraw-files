@@ -220,7 +220,7 @@
         <mxCell id="vb-gZBGf6wZfebiEb5LE-10" value="仿真系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="697.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vb-gZBGf6wZfebiEb5LE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.858;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vb-gZBGf6wZfebiEb5LE-5" target="aeSAsaaFi5lpjSz0y0Ey-54">
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vb-gZBGf6wZfebiEb5LE-4" target="aeSAsaaFi5lpjSz0y0Ey-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
