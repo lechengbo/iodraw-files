@@ -65,7 +65,7 @@
           <mxGeometry x="370" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="210" y="465" width="310" height="225" as="geometry" />
+          <mxGeometry x="210" y="465" width="310" height="245" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-27" value="状态管理和异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="270" y="475" width="140" height="20" as="geometry" />
@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="542" as="targetPoint" />
+            <mxPoint x="550" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
