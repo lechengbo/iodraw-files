@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-2" value="机器人架构图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="80" width="820" height="30" as="geometry" />
+          <mxGeometry x="90" y="80" width="920" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="统&lt;div style=&quot;font-size: 15px;&quot;&gt;一&lt;div style=&quot;font-size: 15px;&quot;&gt;通&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;讯&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;组&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;件&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="550" y="120" width="40" height="640" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="620" y="125" width="450" height="165" as="geometry" />
+          <mxGeometry x="620" y="125" width="400" height="165" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-35" value="统一的调试、标定平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="680" y="135" width="210" height="20" as="geometry" />
