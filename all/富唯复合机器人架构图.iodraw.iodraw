@@ -92,6 +92,10 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="588" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="548" />
+              <mxPoint x="525" y="589" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
