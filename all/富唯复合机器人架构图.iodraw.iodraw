@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="80" width="920" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="统&lt;div style=&quot;font-size: 15px;&quot;&gt;一&lt;div style=&quot;font-size: 15px;&quot;&gt;通&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;讯&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;组&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;件&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="550" y="120" width="40" height="640" as="geometry" />
+          <mxGeometry x="550" y="120" width="40" height="740" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="130" width="300" height="180" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="270" y="140" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="90" y="130" width="110" height="630" as="geometry" />
+          <mxGeometry x="90" y="130" width="110" height="730" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-7" value="设计目标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="115" y="135" width="60" height="30" as="geometry" />
