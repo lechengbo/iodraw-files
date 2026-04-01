@@ -259,9 +259,9 @@
           <mxGeometry x="870" y="860" width="130" height="111" as="geometry" />
         </mxCell>
         <mxCell id="s6vyyVTC8aUsw-WoWhrM-3" value="其他系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="875" y="870" width="145" height="20" as="geometry" />
+          <mxGeometry x="875" y="870" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="s6vyyVTC8aUsw-WoWhrM-4" value="调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s6vyyVTC8aUsw-WoWhrM-4" value="mes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="900" width="110" height="41" as="geometry" />
         </mxCell>
       </root>
