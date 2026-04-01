@@ -114,7 +114,7 @@
           <mxGeometry x="780" y="224" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="620" y="310" width="400" height="230" as="geometry" />
+          <mxGeometry x="620" y="310" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-42" value="统一HMI交互界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="680" y="320" width="210" height="20" as="geometry" />
@@ -131,25 +131,17 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-46" value="机械臂操作" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="409" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="608" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="608" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="620" y="555" width="400" height="115" as="geometry" />
+          <mxGeometry x="620" y="642.5" width="400" height="115" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-48" value="统一运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="680" y="565" width="210" height="20" as="geometry" />
+          <mxGeometry x="680" y="652.5" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-49" value="日志收集和分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="595" width="120" height="50" as="geometry" />
+          <mxGeometry x="630" y="682.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-50" value="监控管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="595" width="120" height="50" as="geometry" />
+          <mxGeometry x="780" y="682.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-54" value="统一对外接口服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="85" y="870" width="925" height="40" as="geometry" />
