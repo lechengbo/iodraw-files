@@ -151,7 +151,7 @@
           <mxGeometry x="780" y="595" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-54" value="统一对外接口服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="90" y="780" width="825" height="40" as="geometry" />
+          <mxGeometry x="90" y="780" width="930" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aeSAsaaFi5lpjSz0y0Ey-34" target="aeSAsaaFi5lpjSz0y0Ey-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry x="730" y="899" width="110" height="41" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="620" y="670" width="290" height="90" as="geometry" />
+          <mxGeometry x="620" y="670" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-9" value="仿真平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="670" width="210" height="20" as="geometry" />
@@ -222,8 +222,9 @@
         <mxCell id="vb-gZBGf6wZfebiEb5LE-10" value="仿真系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="697.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vb-gZBGf6wZfebiEb5LE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vb-gZBGf6wZfebiEb5LE-4" target="aeSAsaaFi5lpjSz0y0Ey-54" edge="1">
+        <mxCell id="vb-gZBGf6wZfebiEb5LE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vb-gZBGf6wZfebiEb5LE-4" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="822" as="targetPoint" />
             <Array as="points">
               <mxPoint x="785" y="822" />
             </Array>
