@@ -7,7 +7,7 @@
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-2" value="机器人功能模块架构图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="80" width="930" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="统&lt;div style=&quot;font-size: 15px;&quot;&gt;一&lt;div style=&quot;font-size: 15px;&quot;&gt;通&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;讯&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;组&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;件&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aeSAsaaFi5lpjSz0y0Ey-3" value="统&lt;div style=&quot;font-size: 15px;&quot;&gt;一&lt;div style=&quot;font-size: 15px;&quot;&gt;通&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;讯&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;服&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;务&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="550" y="120" width="40" height="740" as="geometry" />
         </mxCell>
         <mxCell id="aeSAsaaFi5lpjSz0y0Ey-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
