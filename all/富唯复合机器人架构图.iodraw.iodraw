@@ -237,10 +237,10 @@
           <mxGeometry x="270" y="650" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="680" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-17" value="避障模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="680" width="100" height="40" as="geometry" />
+          <mxGeometry x="360" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vb-gZBGf6wZfebiEb5LE-19" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial, sans-serif; font-size: 11px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;安全性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="450" width="90" height="35" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="100" y="495" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="s6vyyVTC8aUsw-WoWhrM-1" value="安全监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="690" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="730" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
