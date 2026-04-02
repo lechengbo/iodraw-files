@@ -353,7 +353,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-27" value="&lt;b&gt;PaddleDetection&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;目标检测&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;实例分割&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;语义分割&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="815" width="135" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-28" value="模型注册  " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-28" value="PaddleOCR  &lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;文字识别&lt;/div&gt;&lt;div&gt;文字检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-29" value="指标日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
