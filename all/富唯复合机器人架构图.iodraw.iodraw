@@ -305,6 +305,9 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-6" value=" 应用接入层（API &amp;amp; 业务系统）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-7" value="web管理后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
