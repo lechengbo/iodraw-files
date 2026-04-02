@@ -305,6 +305,24 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-10" value="日志与审计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="105" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-12" value="推理服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-13" value="web管理后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-14" value="业务系统对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-15" value="监控告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-16" value="日志与审计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
