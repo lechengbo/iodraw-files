@@ -293,7 +293,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="380" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-3" value="训练模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
