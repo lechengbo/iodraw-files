@@ -351,13 +351,13 @@
           <mxGeometry x="330" y="760" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-27" value="&lt;b&gt;PaddleDetection&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;目标检测&lt;/div&gt;&lt;div&gt;实例分割&lt;/div&gt;&lt;div&gt;语义分割&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="815" width="135" height="145" as="geometry" />
+          <mxGeometry x="202.5" y="840" width="135" height="145" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-28" value="&lt;b&gt;PaddleOCR  &lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;文字识别&lt;/div&gt;&lt;div&gt;文字检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="815" width="135" height="145" as="geometry" />
+          <mxGeometry x="372.5" y="840" width="135" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-29" value="指标日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="815" width="120" height="60" as="geometry" />
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-29" value="自定义扩展库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="840" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-30" value="PaddlePaddle 统一框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="790" width="400" height="30" as="geometry" />
