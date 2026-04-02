@@ -362,6 +362,24 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-30" value="PaddlePaddle 统一框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="790" width="400" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="740" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-32" value="模型管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-33" value="实验跟踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-34" value="模型注册  " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-35" value="指标日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-36" value="MLflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="400" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
