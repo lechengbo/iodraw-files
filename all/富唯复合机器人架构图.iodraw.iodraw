@@ -350,7 +350,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-26" value="训练框架层（核心算法）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="330" y="760" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-27" value="实验跟踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-27" value="PaddleDetection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-28" value="模型注册  " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
