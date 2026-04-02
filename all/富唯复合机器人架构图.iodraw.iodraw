@@ -333,19 +333,16 @@
           <mxGeometry x="330" y="530" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-20" value="实验跟踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="603" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-21" value="模型注册  " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="603" width="120" height="60" as="geometry" />
+          <mxGeometry x="375" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-22" value="实例分割" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="603" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-23" value="OCR模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="603" width="120" height="60" as="geometry" />
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-22" value="指标日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-24" value="模型仓库：TensorRT / ONNX / Paddle Inference" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="690" width="400" height="30" as="geometry" />
+          <mxGeometry x="250" y="680" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
