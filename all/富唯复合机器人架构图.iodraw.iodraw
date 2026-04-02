@@ -344,7 +344,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-24" value="MLflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="670" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="90" y="750" width="740" height="260" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-26" value="训练框架层（核心算法）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
@@ -362,7 +362,10 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-30" value="PaddlePaddle 统一框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="790" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CF9TH7u4zUyJf6YjpUrf-31" target="CF9TH7u4zUyJf6YjpUrf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="87" y="1060" width="740" height="190" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-32" value="数据层（标注 &amp;amp; 存储）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
