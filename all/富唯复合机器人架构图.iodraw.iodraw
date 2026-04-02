@@ -314,7 +314,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-13" value="检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-14" value="业务系统对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-14" value="语义分割" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-15" value="监控告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
