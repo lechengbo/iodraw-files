@@ -326,7 +326,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-17" value="模型仓库：TensorRT / ONNX / Paddle Inference" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="430" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="740" height="190" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-19" value="模型管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
