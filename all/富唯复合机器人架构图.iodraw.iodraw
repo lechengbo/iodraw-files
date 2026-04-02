@@ -290,7 +290,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="740" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-6" value=" 应用接入层（API &amp;amp; 业务系统）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-6" value=" 应用接入层（API &amp;amp; 业务系统）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-7" value="web管理后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="740" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-12" value="推理服务层&amp;nbsp;Triton Inference Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-12" value="推理服务层&amp;nbsp;Triton Inference Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-13" value="检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -324,7 +324,7 @@
           <mxGeometry x="650" y="343" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-17" value="模型仓库：TensorRT / ONNX / Paddle Inference" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="400" height="30" as="geometry" />
+          <mxGeometry x="250" y="430" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
