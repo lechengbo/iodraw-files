@@ -371,7 +371,7 @@
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-33" value="LabelStudio&lt;div&gt;标注平台&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CF9TH7u4zUyJf6YjpUrf-34" value="模型注册  " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CF9TH7u4zUyJf6YjpUrf-34" value="COCO 数据集  &lt;div&gt;检测/分割/OCR&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CF9TH7u4zUyJf6YjpUrf-35" value="指标日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
